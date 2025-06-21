@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Mobile Development**
 
-- 🌱 I’m currently learning **Advanced Kotlin**
+- 🌱 I’m currently learning **Advanced Kotlin,Jetpack Compose**
 
 - 💬 Ask me about **Android,kotlin,Java,Javascript,web apps**
 
